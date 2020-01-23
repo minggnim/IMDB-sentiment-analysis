@@ -1,0 +1,7 @@
+__pycache__/
+.vscode/
+logs/
+test/
+train/
+training_v1/
+saved_model/
